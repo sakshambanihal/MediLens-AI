@@ -1,0 +1,6 @@
+
+streamlit
+scikit-learn
+joblib
+pypdf
+reportlab
